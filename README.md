@@ -1,2 +1,2 @@
-# 0x00. Fix my code
+# Fix my code challenge
 Will updated soon
